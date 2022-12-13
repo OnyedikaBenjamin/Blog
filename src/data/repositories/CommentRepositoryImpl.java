@@ -1,4 +1,4 @@
-package data.models.repositories;
+package data.repositories;
 
 import data.models.Comment;
 

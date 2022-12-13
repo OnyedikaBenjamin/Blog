@@ -1,4 +1,4 @@
-package data;
+package data.models;
 public class Comment {
     private String commenterName;
     private int id;

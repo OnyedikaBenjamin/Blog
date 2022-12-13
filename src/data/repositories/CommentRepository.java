@@ -1,5 +1,6 @@
-package data.models.repositories;
+package data.repositories;
 import data.models.Comment;
+
 import java.util.List;
 
 public interface CommentRepository {
